@@ -1,7 +1,13 @@
 # 📊 Google Play Store Data Analysis  
 
 ## Project Overview  
-This project analyzes Google Play Store app reviews and categories to understand user sentiment, app popularity, and trends. The goal is to derive insights that can help developers improve their apps and businesses make data-driven decisions.  
+This project analyzes Google Play Store app reviews and categories to understand user sentiment, app popularity, and trends. The goal is to derive insights that can help developers improve their apps and businesses make data-driven decisions.
+
+![Google play store](https://github.com/user-attachments/assets/2a832eb9-46d9-42d3-b747-e73c6f07933f)
+
+![google play store 2](https://github.com/user-attachments/assets/9193f36c-507a-4c8c-9542-29d87e5b7960)
+
+
 
 ## 📊 Data Source  
 The dataset was obtained from Kaggle the Google Play Store and includes app categories, reviews, sentiment polarity, and other relevant attributes.
